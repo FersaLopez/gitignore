@@ -1,0 +1,19 @@
+*config.php
+**ContenidoSecreto 
+#bien hecho
+assets/*.pdf
+assets/media/files/*.pdf
+*.txt
+
+*.jpg 
+*.gif 
+*.png
+*.jpeg
+*.webp
+
+!*-system*
+
+*-prueba*
+*-local*
+!*-experimento*
+
